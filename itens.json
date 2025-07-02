@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "adaga",
+        "dano": 20,
+        "tipo": "arma"
+    },
+    {
+        "nome": "picareta",
+        "dano": 10,
+        "tipo": "ferramenta/arma"
+    },
+    {
+        "nome": "faca", 
+        "dano": 23, 
+        "tipo": "arma"
+    }, 
+    {
+        "nome": "katana", 
+        "dano": 41, 
+        "tipo": "arma"
+    }
+]

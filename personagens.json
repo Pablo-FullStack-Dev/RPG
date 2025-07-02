@@ -1,0 +1,29 @@
+[
+    {
+        "nome": "goblin",
+        "vida": 13,
+        "estamina": 12,
+        "resistencia": 8,
+        "ataque": 14,
+        "escudo": 7,
+        "alma": "normal"
+    },
+    {
+        "nome": "grinmell",
+        "vida": 90,
+        "estamina": 30,
+        "resistencia": 150,
+        "ataque": 90,
+        "escudo": 100,
+        "alma": "comum"
+    },
+    {
+        "nome": "Falmer",
+        "vida": 180,
+        "estamina": 177,
+        "resistencia": 163,
+        "ataque": 21,
+        "escudo": 50,
+        "alma": "inferior"
+    }
+]

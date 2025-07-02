@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Dovakin",
+        "nivel": 30,
+        "vida": 100,
+        "mana": 50,
+        "classe": "Feiticeiro guerreiro",
+        "personalidade": "Emotivo e tbm frio",
+        "experiencia": "500",
+        "cor": "parda"
+    }
+]
